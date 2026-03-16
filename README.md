@@ -42,7 +42,7 @@ cd PhysMoDPO/
 
 ### OmniControl baseline setup
 
-Please refer to [OmniControl](https://github.com/Mael-zys/PhysMoDPO_private/tree/main/OmniControl) folder for the detailed installation and the corresponding training and evaluation instructions.
+Please refer to [OmniControl](https://github.com/Mael-zys/PhysMoDPO/tree/master/OmniControl) folder for the detailed installation and the corresponding training and evaluation instructions.
 
 ### MotionStreamer baseline setup
 
