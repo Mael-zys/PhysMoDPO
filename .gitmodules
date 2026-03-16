@@ -1,0 +1,9 @@
+[submodule "third-party/TMR"]
+	path = third-party/TMR
+	url = git@github.com:Mael-zys/TMR_PhysMoDPO.git
+[submodule "third-party/ProtoMotions"]
+	path = third-party/ProtoMotions
+	url = git@github.com:Mael-zys/ProtoMotions_SMPL_PhysMoDPO.git
+[submodule "third-party/ProtoMotions3"]
+	path = third-party/ProtoMotions3
+	url = git@github.com:Mael-zys/ProtoMotions_G1_PhysMoDPO.git
