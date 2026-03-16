@@ -49,7 +49,7 @@ bash prepare/download_t2m_evaluators.sh
 
 For experiments with OmniControl baseline, we follow [stmc](https://github.com/nv-tlabs/stmc?tab=readme-ov-file#motions) project to process data into SMPL-based representation to facilitate SMPL mesh visualization and full-body motion tracking.
 
-Please download the processed [HumanML3D data](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/yangsong_zhang_mbzuai_ac_ae/IQB7qLs_a1uRQogJTeA-vTKJASGsI43giNUYGLLE_igwf0g?e=zuUQt4) and [OMOMO data](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/yangsong_zhang_mbzuai_ac_ae/IQB7qLs_a1uRQogJTeA-vTKJASGsI43giNUYGLLE_igwf0g?e=zuUQt4) 
+Please download the processed [HumanML3D data](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/yangsong_zhang_mbzuai_ac_ae/IQCcgn0BJMc3SLSqL0r64CoyARikyoeIxNG3Ubsr35zvRMw?e=qKggJl) and [OMOMO data](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/yangsong_zhang_mbzuai_ac_ae/IQD8VvEKYNLsTrhLLzljLHDLAdoQI48uF01VMGrlrHXd3Fk?e=Ty5t6o) and then put in ```dataset``` folder.
 
 Or follow the detail instructions [stmc](https://github.com/nv-tlabs/stmc?tab=readme-ov-file#motions) project to process the raw dataset.
 
