@@ -14,7 +14,7 @@ This is the official implementation for paper: "PhysMoDPO: Physically-Plausible 
   - [x] Pretraining with SMPL-based data
   - [x] DPO training and evaluation on SMPL character
   - [x] Zero-shot experiments on G1 robot simulation
-  - [ ] Zero-shot experiments on H1 robot simulation
+  - [x] Zero-shot experiments on H1 robot simulation
 - [ ] Finetuning MotionStreamer with PhysMoDPO
   - [ ] DPO training and evaluation on SMPL character
   - [ ] Zero-shot experiments on G1 robot simulation
