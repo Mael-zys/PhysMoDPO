@@ -138,7 +138,7 @@ For evaluation on OMOMO dataset, please change both the input folder and the GT 
 
 ### H1 evaluation
 
-coming soon
+- Similar to G1 evaluation, we will re-use the human motion files before SMPL simulation, and then retarget them to h1 for the evaluation. Please refer to `third-party/HOVER/README.md` for further details.
 
 # References
 This project repository builds upon [OmniControl](https://github.com/neu-vi/OmniControl/tree/main).

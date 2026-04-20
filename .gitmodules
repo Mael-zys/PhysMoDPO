@@ -7,3 +7,6 @@
 [submodule "third-party/ProtoMotions3"]
 	path = third-party/ProtoMotions3
 	url = git@github.com:Mael-zys/ProtoMotions_G1_PhysMoDPO.git
+[submodule "third-party/HOVER"]
+	path = third-party/HOVER
+	url = git@github.com:Mael-zys/HOVER_PhysMoDPO.git

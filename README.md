@@ -37,7 +37,7 @@ cd PhysMoDPO/
 
 - Install ProtoMotions 3 (only for G1 evaluation in simulator) environment according to README in [third-party/ProtoMotions3](https://github.com/Mael-zys/ProtoMotions_G1_PhysMoDPO).
 
-- Install HOVER (only for H1 evaluation in simulator) environment (coming soon).
+- Install HOVER (only for H1 evaluation in simulator) environment according to README in [third-party/ProtoMotions3](https://github.com/Mael-zys/HOVER_PhysMoDPO).
 
 
 ### OmniControl baseline setup
